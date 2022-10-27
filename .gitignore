@@ -1,0 +1,5 @@
+#Ignore the node modules foler 
+/node_modules 
+
+#ignore tha .env files 
+/.env 
